@@ -1,4 +1,4 @@
-[![ShareXGenerator](https://img.shields.io/badge/ShareXGenerator-NodeJS-red?&maxAge=3600&style=plastic)](https://github.com/CyberCDN/ShareXGenerator)
+[![ShareXGenerator](https://img.shields.io/badge/ShareXGenerator-NodeJS-red?&maxAge=3600&style=plastic)](https://github.com/CyberCDN/ShareXGenerator) [![ShareXGenerator](https://img.shields.io/badge/Code%20Quality-B-green?&maxAge=3600&style=plastic)](https://www.codacy.com/gh/CyberCDN/ShareXGenerator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyberCDN/ShareXGenerator&amp;utm_campaign=Badge_Grade) 
 
 ###### _Custom ShareX Configuration Generator_
 
