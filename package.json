@@ -1,0 +1,31 @@
+{
+    "name": "sharexgenerator",
+    "version": "0.0.1",
+    "description": "Custom ShareXGenerator Module",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "cd Example & node ShareX"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CyberCDN/ShareXGenerator.git"
+    },
+    "keywords": [
+        "ShareX",
+        "sxcu",
+        "ShareX-Custom-Uploader",
+        "Custom",
+        "Configurations",
+        ".sxcu",
+        "sharex-files"
+    ],
+    "author": "CyberCDN",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/CyberCDN/ShareXGenerator/issues"
+    },
+    "homepage": "https://github.com/CyberCDN/ShareXGenerator#readme"
+}

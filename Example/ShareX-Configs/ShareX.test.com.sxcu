@@ -1,0 +1,12 @@
+{
+  "Name": "test",
+  "DestinationType": "ImageUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://test.com",
+  "FileFormName": "file",
+  "Arguments": {
+    "auth_key": "test"
+  },
+  "ResponseType": "Text",
+  "URL": "$json:file.url$"
+}
