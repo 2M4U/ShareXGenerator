@@ -9,13 +9,13 @@
 
 'use strict';
 const ShareX = require("../index")
-ShareX.generateConfig(
+ShareX.generate(
     "ShareX-Configs",
-    "test",
+    "FileTest",
     "https://test.com",
-    "ImageUploader",
+    "ImageUploader, FileUploader",
     "POST",
     "test",
     "Text",
     "$json:file.url$"
-).then((r) => console.log(r));
+).then((result) => console.log(result));
