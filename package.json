@@ -7,7 +7,7 @@
         "lib": "lib"
     },
     "scripts": {
-        "test": "cd Example & node ShareX"
+        "test": "node ShareX"
     },
     "repository": {
         "type": "git",
