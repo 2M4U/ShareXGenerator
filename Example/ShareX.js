@@ -8,7 +8,7 @@
  */
 
 'use strict';
-const ShareX = require("../index")
+const ShareX = require("sharexgenerator");
 ShareX.generate(
     "ShareX-Configs",
     "FileTest",
