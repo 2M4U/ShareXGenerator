@@ -6,8 +6,6 @@
  * @license GPL-v3.0 
  * @description Test script to ensure the ShareXGenerator works as intended.
  */
-
-'use strict';
 const ShareX = require("sharexgenerator");
 ShareX.generate(
     "ShareX-Configs",
